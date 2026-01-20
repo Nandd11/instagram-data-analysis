@@ -1,0 +1,17 @@
+username: demo_user
+followers: 1.2k
+following: 300
+posts: 45
+category: Blogger
+
+username: fit_guy
+followers: 25k
+following: 500
+posts: 120
+category: Fitness
+
+username: biz_world
+followers: 3.5m
+following: 120
+posts: 980
+category: Business
